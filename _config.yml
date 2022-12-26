@@ -68,7 +68,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chauby/chauby.github.io
+repository: apeanut60/apeanut60.github.io
 
 # Search
 simple_jekyll_search:
