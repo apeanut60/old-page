@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 欢迎！我的第一篇博客
-categories: [,]
+categories: assay
 description: 首次基于github-pages搭建了静态网页。
 keywords: 随笔, 个人博客
 ---
 
-# 前言
 折腾了几个小时终于搭建了这个博客。主要用到了Github-page、Ruby和jekyll，前段时间鼓捣的Linux命令派上了很大用场。尽管整个过程没有付出太多技术性的东西，点击链接访问自己生成内容时仍然有比较大的成就感。
 # 搭建步骤简介
 ## 需要准备的工具：
