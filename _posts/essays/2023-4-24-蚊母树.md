@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: 植物科普|蚊母树
+categories: [assay]
+description: 蚊母树，杭州特产
+keywords: 植物科普，随笔
 ---
 
 # 蚊母树
